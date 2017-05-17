@@ -1,0 +1,6 @@
+E:\Development\ASP.NET\Apps\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\sqlinjection.sample\bin\Debug\sqlinjection.sample.exe.config
+E:\Development\ASP.NET\Apps\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\sqlinjection.sample\bin\Debug\sqlinjection.sample.exe
+E:\Development\ASP.NET\Apps\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\sqlinjection.sample\bin\Debug\sqlinjection.sample.pdb
+E:\Development\ASP.NET\Apps\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\sqlinjection.sample\obj\Debug\sqlinjection.sample.exe
+E:\Development\ASP.NET\Apps\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\sqlinjection.sample\obj\Debug\sqlinjection.sample.pdb
+E:\Development\ASP.NET\Apps\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\sqlinjection.sample\obj\Debug\sqlinjection.sample.csprojResolveAssemblyReference.cache

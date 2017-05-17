@@ -1,0 +1,1 @@
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\BrownBag.SQLInjection.Console\obj\Debug\BrownBag.SQLInjection.Console.csprojResolveAssemblyReference.cache

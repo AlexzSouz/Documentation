@@ -1,0 +1,14 @@
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.deps.json
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.runtimeconfig.json
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.runtimeconfig.dev.json
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.dll
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.pdb
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.dll
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\bin\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.pdb
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\obj\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.csprojResolveAssemblyReference.cache
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\obj\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.AssemblyInfo.cs
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\obj\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.dll
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\Samples\CORS\BrownBag.CorsSample.Api\BrownBag.CorsSample.Api.Tdd\obj\Debug\netcoreapp1.1\BrownBag.CorsSample.Api.Tdd.pdb

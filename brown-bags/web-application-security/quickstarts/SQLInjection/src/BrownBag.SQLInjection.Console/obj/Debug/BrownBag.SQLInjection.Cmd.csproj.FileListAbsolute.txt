@@ -1,0 +1,5 @@
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\BrownBag.SQLInjection.Console\bin\Debug\BrownBag.SQLInjection.Cmd.exe.config
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\BrownBag.SQLInjection.Console\bin\Debug\BrownBag.SQLInjection.Cmd.exe
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\BrownBag.SQLInjection.Console\bin\Debug\BrownBag.SQLInjection.Cmd.pdb
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\BrownBag.SQLInjection.Console\obj\Debug\BrownBag.SQLInjection.Cmd.exe
+D:\Projects\alexandre.personal\.documents\brown-bags\web-application-security\quickstarts\SQLInjection\src\BrownBag.SQLInjection.Console\obj\Debug\BrownBag.SQLInjection.Cmd.pdb
